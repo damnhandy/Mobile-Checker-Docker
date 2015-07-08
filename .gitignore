@@ -1,0 +1,31 @@
+# Logs
+logs
+*.log
+
+# Node
+node_modules
+
+#Other
+*.pid
+*.class
+*~
+.*.swp
+.*.swo
+.buildpath
+.project
+.settings
+.classpath
+.metadata
+.springBeans
+.idea
+*.iml
+*.ipr
+*.iws
+git.properties
+*.log
+*.tmp
+.checkstyle
+.DS_Store
+**/target/*
+dist
+.tmp
